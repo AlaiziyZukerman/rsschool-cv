@@ -1,4 +1,4 @@
-[rsschool-cv](https://AlaiziyZukerman.github.io/rsschool-cv)
+[rsschool-cv](https://AlaiziyZukerman.github.io/rsschool-cv/cv)
 ___
 # Sergey Terekhin
 
