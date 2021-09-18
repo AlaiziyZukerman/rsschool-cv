@@ -58,11 +58,18 @@ ___Engineer at Express, Tver___
 January 2013 – September 2016
 __Main activity:__ electronics engineering, documentation preparation
 
-
-
 ## Education
+___Tver State Technical University,___ _2014-2018_
+Information Technology Department, Major: Computer-aided design systems
+__Degree:__ PhD
 
+___Tver State Technical University,___ _2012-2014_
+Information Technology Department, Major: Vital Diagnostic Tools
+__Degree:__ Master of Engineering and Technology
 
+___Tver State Technical University,___ _2008-2012_
+Information TechnologyDepartment, Major: Biotechnical and Medical Devices and System
+__Degree:__ Bachelor of Engineering and Technology
 
-## English
-
+### Language 
+English: A2
