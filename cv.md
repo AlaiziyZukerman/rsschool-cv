@@ -34,11 +34,21 @@ if (card.NFCLENID==0x04){
 ```
 ___
 ## Experience
+___Embedded developer, Tver___
+August 2019 - present
+__Main activity:__ Development of embedded solution
 
+___Field Service Engineer at MIBS, Saint-Petersburg___
+September 2018 – August 2019
+__Main activity:__ Proton Therapy service
 
+___Field Service Engineer at MIBS, Tver___
+November 2017 – September 2018
+__Main activity:__ MRI service, CT Scan service
 
-
-
+___Technical Teacher at Tver State Technical University, Tver___
+September 2013 – June 2018
+__Main activity:__ student learning, research activities
 
 ___Senior Engineer at RusBITech, Moscow___
 August 2015 – October 2016
