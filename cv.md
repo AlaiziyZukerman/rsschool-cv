@@ -69,5 +69,5 @@ ___Tver State Technical University,___ _2008-2012_
 Information TechnologyDepartment, Major: Biotechnical and Medical Devices and System
 __Degree:__ Bachelor of Engineering and Technology
 
-### Language 
+## Language 
 English: A2
