@@ -1,14 +1,14 @@
 [rsschool-cv](https://AlaiziyZukerman.github.io/rsschool-cv)
 ___
 # Sergey Terekhin
-___
+
 ## Contacts:  
 + __Phone:__ [+79108369496](tel:+79108369496)
 + __E-mail__ [s.a.terekhin@outlook.com](mailto:s.a.terekhin@outlook.com)
-___
+
 ## Summary:
 Experienced and energetic 30 year old engineer ready to apply organized and hands-on approach to position of front-end developer. I combine extensive theoretical and practice engineering expertise from nearly 9 years of working with knowledge of various technical disciplines. Hold experience in design, production supervision, and service. Capable studying quickly and effectively.
-___
+
 
 ## Skills
 - Electronic and Electrical engineering
@@ -19,7 +19,7 @@ ___
 - Imaging systems, MR/CT Scan
 - Vacuum systems
 - Magnetic systems and Power distribution systems
-___
+
 
 ## Code example
 ```C
@@ -32,7 +32,7 @@ if (card.NFCLENID==0x04){
     card.NFCLENID=0;
     }
 ```
-___
+
 ## Experience
 ___Embedded developer, Tver___
 August 2019 - present
@@ -58,12 +58,11 @@ ___Engineer at Express, Tver___
 January 2013 – September 2016
 __Main activity:__ electronics engineering, documentation preparation
 
-___
+
 
 ## Education
 
-___
+
 
 ## English
 
-___
