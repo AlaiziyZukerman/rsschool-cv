@@ -1,1 +1,2 @@
-https://AlaiziyZukerman.github.io/rsschool-cv/cv# rsschool-cv
+https://AlaiziyZukerman.github.io/rsschool-cv/cv
+# rsschool-cv
