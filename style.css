@@ -1,0 +1,18 @@
+h1{
+    font-size: 36px;
+}
+
+.header{
+display: grid;
+grid-template-columns: 1fr 1fr;
+}
+
+.header .img{
+    height: 20px;
+    width: 20px;
+}
+
+.header .photo{
+    height: 200px;
+    width: 200px;
+}
